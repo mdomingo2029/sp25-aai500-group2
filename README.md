@@ -18,7 +18,7 @@ paragraph(s).
 
 Partner(s)/Contributor(s)
 * Michael Domingo
-* domingos_github_url
+* https://github.com/mdomingo2029
 * Puja Nandini
 * nandinis_github_url
 * Mr. Kelsey
